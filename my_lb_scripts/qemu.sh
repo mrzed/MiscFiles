@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # I am lazy and didn't want to keep typing this, so I wrote a script. Oogity boogity boo.
 # Devin Trotter (Zed)
 # zed@lilypadmudlib.com
